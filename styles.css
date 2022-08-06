@@ -118,7 +118,7 @@ p{
 
 #testimonials{
   background-color:#ef8172;
-  text-align: center;
+  text-align:center;
 }
 
 .testimonial-image{
@@ -129,6 +129,7 @@ p{
 
 #press{background-color:#ef8172;
   padding-bottom: 3%;
+  text-align:center;
 }
 
  .press-logo{
@@ -158,7 +159,7 @@ p{
 /* footer section */
 #footer{
   padding: 7% 15%;
-  text-align: center;
+  text-align:center;
 }
 
 .social-icon{
@@ -167,7 +168,7 @@ p{
 
 @media (max-width:1028px){
   #title{
-    text-align: center;
+    text-align:center;
   }
   .title-image{
     position: static;
